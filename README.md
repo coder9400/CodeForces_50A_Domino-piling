@@ -1,0 +1,1 @@
+# CodeForces_50A_Domino-piling
